@@ -1,0 +1,2 @@
+git.log muestra todo q se hizo
+touch + nombre.txt crea archivo txt
